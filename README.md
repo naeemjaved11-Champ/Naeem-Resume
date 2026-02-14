@@ -1,4 +1,17 @@
 <div align="center">
+  <h2>Check Out My Resume</h2>
+
+  <a href="https://naeemjaved11-champ.github.io/Naeem-Resume/" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Here%20To%20View%20My%20Resume-1F7A8C?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=0F4C5C" alt="View Resume">
+  </a>
+
+  <p style="margin-top: 1rem; font-size: 1.1em; color: #475569;">
+    One click → full resume with skills, projects, experience & more! 🚀
+  </p>
+</div>
+
+
+<div align="center">
 
 <h1>Naeem Javed</h1>
 <h3>Frontend Developer • UI/UX Enthusiast • Creative Thinker</h3>
