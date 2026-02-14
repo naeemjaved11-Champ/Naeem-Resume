@@ -3,8 +3,6 @@
 <h1>Naeem Javed</h1>
 <h3>Frontend Developer • UI/UX Enthusiast • Creative Thinker</h3>
 
-<img src="https://nj-portfolio2.netlify.app/assets/profile.jpg" width="180" style="border-radius:50%; border:4px solid #1F7A8C; margin: 20px 0;" alt="Naeem Javed">
-
 **Hardworking | Fast Learner | Extremely Creative Thinker**
 
 </div>
