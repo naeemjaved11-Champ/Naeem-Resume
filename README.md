@@ -23,7 +23,7 @@
 ### Quick Intro
 
 I’m Naeem Javed — a Chandigarh native now based in Patiala, Punjab.  
-By day, I successfully run **Juicy Theka** (a popular juice outlet), and alongside that, I actively freelance as a **Frontend Developer**, **UI/UX Designer**, **Graphic Designer**, and **AI-powered creative specialist**.
+By day, I run **Juicy Theka** (a popular juice outlet), and alongside that, I actively freelance as a **Frontend Developer**, **UI/UX Designer**, **Graphic Designer**, and **AI-powered creative specialist**.
 
 Passionate about crafting clean, modern, and user-centric digital experiences. Fast learner, detail-oriented, and always pushing creative boundaries — I thrive on turning ideas into functional, visually appealing solutions.
 
