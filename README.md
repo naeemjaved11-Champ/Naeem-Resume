@@ -44,10 +44,6 @@ Roz nayi cheezein seekhta hoon aur har project ko apna personal touch deta hoon.
 **Design** • Figma • Color Theory • UI/UX Principles • Graphic Design  
 **Other** • WordPress • Prompt Engineering • AI Tools • Manual Design Systems
 
-### 📄 Latest Resume
-
-[Download Resume PDF](NAEEM%20JAVED%20RESUME.pdf)
-
 ---
 
 Thanks for visiting!  
